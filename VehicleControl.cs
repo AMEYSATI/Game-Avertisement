@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Carmovement : MonoBehaviour
+public class VehicleControl : MonoBehaviour
 {
 
     public float MotorForce, SteerForce, BreakForce, friction;
